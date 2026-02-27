@@ -207,6 +207,8 @@ def grade_answer(student_text, master_data, rubric_txt=None):
             time.sleep(1)
             raw_text = response.content[0].text
             json_str = extract_json_from_response(raw_text)
+            print("=== API RESPONSE ===")
+            print(json_str[:500])
             
             return json.loads(json_str)
         except anthropic.RateLimitError:

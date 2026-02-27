@@ -7,7 +7,7 @@
 
 ## デモ動画
 
-※準備中
+[![デモ動画](https://img.youtube.com/vi/Xjwae0sJoVo/0.jpg)](https://youtu.be/Xjwae0sJoVo)
 
 ---
 
@@ -203,3 +203,4 @@ Python学習開始：2024年12月
 - 解説テキスト自動生成機能
 - 点数データのCSV出力・管理機能
 - 他講師への展開・製品化の検討
+
