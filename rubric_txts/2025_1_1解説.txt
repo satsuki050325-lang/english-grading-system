@@ -1,0 +1,56 @@
+【問題】デモ大学 英語 2025年度 第1問1
+
+■ (A) 和文英訳
+原文（日本語）: 森の中を歩きながら、彼女は動物たちがいかに静かに動いているかに気づいた。
+
+【模範解答】
+Walking through the forest, she noticed how quietly the animals moved.
+
+【採点ポイント】
+- 「Walking through the forest」は分詞構文。文頭に置き「〜しながら」の意味を表せていれば可。
+- 「how quietly the animals moved」は間接疑問文。語順（疑問詞＋S＋V）が正しいこと。
+- 「noticed」は「気づいた」。「saw」「watched」などは不可。
+
+【減点基準】
+- 分詞構文が使えていない（接続詞＋節で代替は可、ただし不自然なら-1）：-2
+- 間接疑問文の語順が誤り（例: how the animals quietly moved）：-2
+- noticeを誤訳（saw等）：-1
+- 全体として意味が通じない：-4
+
+---
+
+■ (B) 和文英訳
+原文（日本語）: 彼は、テクノロジーだけでは問題を解決できないと気づいた。
+
+【模範解答】
+He realized that technology alone could not solve the problem.
+
+【採点ポイント】
+- 「realized that」構文が使われていること。
+- 「〜だけでは」を「alone」「only」などで正確に表現していること。
+- 「could not solve the problem」が正確に表現されていること。
+
+【減点基準】
+- 「alone / only」が抜けている：-2
+- 「realized」を弱い動詞（thought, felt等）で代替：-1
+- 「could not」を誤表現（did not等）：-2
+- 全体として意味が通じない：-4
+
+---
+
+■ (C) 英文和訳
+原文（英語）: The development of technology has changed people's lives into something richer and more convenient.
+
+【模範解答】
+テクノロジーの発展は、人々の生活をより豊かで便利なものへと変えてきた。
+
+【採点ポイント】
+- 「The development of technology」→「テクノロジーの発展」が正確に訳されていること。
+- 「has changed ... into something richer and more convenient」→「より豊かで便利なものへと変えてきた」の意味が伝わること。
+- 現在完了（〜してきた）のニュアンスが反映されていること。「変えた」（過去形）は-1。
+
+【減点基準】
+- 「development」を訳していない、または著しく不正確：-2
+- 「richer and more convenient」の比較級の意味が伝わらない：-2
+- 現在完了のニュアンス（〜してきた）がない（「変えた」等）：-1
+- 全体として意味が通じない：-4

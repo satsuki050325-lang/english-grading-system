@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "id": "2025_1_1",
+    "title": "デモ大学 英語 2025年度 第1問1",
+    "total": 30
+  },
+  "common_criteria": [
+    "文法・語法のミスは原則-1点",
+    "内容の誤りは採点要素に従って減点",
+    "未解答は0点"
+  ],
+  "sub_questions": {
+    "A": {
+      "max": 10,
+      "type": "記述式",
+      "question_type": "和文英訳",
+      "question_text": "森の中を歩きながら、彼女は動物たちがいかに静かに動いているかに気づいた。",
+      "scoring_elements": [
+        {"point": 4, "description": "分詞構文（Walking through the forest）が正しく使われている"},
+        {"point": 3, "description": "間接疑問文（how quietly the animals moved）が正しく表現されている"},
+        {"point": 3, "description": "文法・語法が正確で自然な英文になっている"}
+      ]
+    },
+    "B": {
+      "max": 10,
+      "type": "記述式",
+      "question_type": "和文英訳",
+      "question_text": "彼は、テクノロジーだけでは問題を解決できないと気づいた。",
+      "scoring_elements": [
+        {"point": 4, "description": "realized that構文が正しく使われている"},
+        {"point": 3, "description": "「〜だけでは」をalone、only等で適切に表現されている"},
+        {"point": 3, "description": "could not solve the problemが正確に表現されている"}
+      ]
+    },
+    "C": {
+      "max": 10,
+      "type": "記述式",
+      "question_type": "英文和訳",
+      "question_text": "The development of technology has changed people's lives into something richer and more convenient.",
+      "scoring_elements": [
+        {"point": 4, "description": "「The development of technology」が「テクノロジーの発展」などと正確に訳されている"},
+        {"point": 3, "description": "「has changed ... into something richer and more convenient」の意味（より豊かで便利なものへと変えてきた）が正確に表現されている"},
+        {"point": 3, "description": "現在完了形（〜してきた）のニュアンスが日本語に反映されており、自然な日本語になっている"}
+      ]
+    }
+  }
+}

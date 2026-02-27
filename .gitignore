@@ -1,0 +1,28 @@
+# 環境変数・APIキー
+.env
+
+# 設定ファイル（採点者名等）
+config.json
+
+# 答案データ（個人情報）
+inputs/
+done/
+step1_texts/
+step3_final/
+step2_json/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 一時ファイル
+temp_*.png
+cropped_*.png

@@ -1,0 +1,9 @@
+{
+  "pdfxchange_path": "",
+  "grader_name": "採点者名をここに入力",
+  "input_dir": "./inputs",
+  "text_dir": "./step1_texts",
+  "output_dir": "./step3_final",
+  "done_dir": "./done",
+  "step23_script": "step2_and3_combined.py"
+}
