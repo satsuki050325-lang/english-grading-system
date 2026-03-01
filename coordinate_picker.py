@@ -208,8 +208,6 @@ class CoordinatePicker:
             ("合計点欄をドラッグしてください", "total_score"),
             ("採点者名欄をドラッグしてください", "grader_name"),
         ]
-        if self.config["score_field_2"]:
-            steps.append(("2枚目の得点欄 (score_field_2) をドラッグしてください", "score_field_2"))
         for key, qtype in self.config["questions"].items():
             if qtype == "記述式":
                 steps.append((f"設問 {key} の小計欄 (score) をドラッグしてください", f"q:{key}:score"))
@@ -217,8 +215,10 @@ class CoordinatePicker:
             else:
                 steps.append((f"設問 {key} の配点テキスト欄 (score) をドラッグしてください", f"q:{key}:score"))
         steps.append(("コメント欄 (comment_box) をドラッグしてください", "comment_box"))
+        if self.config["score_field_2"]:
+            steps.append(("2枚目の得点欄 (score_field_2) をドラッグしてください", "score_field_2"))
         return steps
-
+    
     def _build_ui(self):
         # ── ガイドバー（上部・高さ72px）──
         guide_bar = tk.Frame(self.root, bg=BG_CARD, height=72)
