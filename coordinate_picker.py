@@ -389,6 +389,9 @@ class CoordinatePicker:
     def _on_release(self, event):
         if self.step_index >= len(self.steps):
             return
+        if self.start_x is None or self.start_y is None:  # ← 追加
+            return
+        
         end_x = self.canvas.canvasx(event.x)
         end_y = self.canvas.canvasy(event.y)
         x0 = max(0, (min(self.start_x, end_x) - self.offset_x) / self.zoom_factor)
